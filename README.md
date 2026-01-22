@@ -3,8 +3,7 @@
 <h2>👨‍💻 Penetration Testing Projects:</h2>
 
 - <b>Vulnerability Testing Reports</b>
-  - - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+  - 
 
 
 <h2> 🤳 Connect with me:</h2>
