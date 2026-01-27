@@ -3,7 +3,8 @@
 <h2>👨‍💻 Penetration Testing Projects:</h2>
 
   - [Authentication bypass via information disclosure](https://github.com/Kama-ganah/Authentication-bypass-via-information-disclosure)
-  - [Basic Password Reset Poisoning](https://github.com/Kama-ganah/Authentication-bypass-via-information-disclosure)
+  - [Basic Password Reset Poisoning](https://github.com/Kama-ganah/Basic-Password-Reset-Poisoning-)
+  - [Blind OS command injection with out-of-band data exfiltration(command injection)](https://github.com/Kama-ganah/Basic-Password-Reset-Poisoning-)
 
 
 <h2> 🤳 Connect with me:</h2>
