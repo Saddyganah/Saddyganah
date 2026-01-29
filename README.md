@@ -54,7 +54,8 @@
   - [Modifying serialized data types(insecure deserialization)](https://github.com/Kama-ganah/Modifying-serialized-data-types-insecure-deserialization-)
   - [Multistep clickjacking(clickjacking)](https://github.com/Kama-ganah/Multistep-clickjacking-clickjacking-)
   - [OAuth account hijacking via redirect_uri](https://github.com/Kama-ganah/OAuth-account-hijacking-via-redirect_uri)
-  - [Parameter cloaking]()
+  - [Parameter cloaking](https://github.com/Kama-ganah/Parameter-cloaking)
+  - [Referer-based access control(access control)]()
 
 
 <h2> Tools used</h2>
