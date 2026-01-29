@@ -16,7 +16,8 @@
   - [CORS-vulnerability-with-basic-origin-reflection](https://github.com/Kama-ganah/CORS-vulnerability-with-basic-origin-reflection)
   - [CORS vulnerability with trusted insecure protocols](https://github.com/Kama-ganah/CORS-vulnerability-with-trusted-insecure-protocols)
   - [Cross-site WebSocket hijacking](https://github.com/Kama-ganah/Cross-site-WebSocket-hijacking)
-  - [CSRF vulnerability with no defenses(CSRF)]()
+  - [CSRF vulnerability with no defenses(CSRF)](https://github.com/Kama-ganah/CSRF-vulnerability-with-no-defenses-CSRF-)
+  - [Discovering vulnerabilities quickly with targeted scanning(essentials)]()
 
 
 <h2> 🤳 Connect with me:</h2>
