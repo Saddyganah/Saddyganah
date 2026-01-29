@@ -43,7 +43,8 @@
   - [Exploiting vulnerabilities in LLM APIs](https://github.com/Kama-ganah/Exploiting-vulnerabilities-in-LLM-APIs)
   - [File path traversal, traversal sequences blocked with absolute path bypass (path traversal)](https://github.com/Kama-ganah/File-path-traversal-traversal-sequences-blocked-with-absolute-path-bypass-path-traversal-)
   - [File path traversal, traversal sequences stripped non-recursively (path traversal)](https://github.com/Kama-ganah/File-path-traversal-traversal-sequences-stripped-non-recursively-path-traversal-)
-  - [Finding a hidden GraphQL endpoint]()
+  - [Finding a hidden GraphQL endpoint](https://github.com/Kama-ganah/Finding-a-hidden-GraphQL-endpoint)
+  - [Forced OAuth profile linking]()
 
 
 <h2> Tools used</h2>
