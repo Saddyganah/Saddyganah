@@ -45,7 +45,8 @@
   - [File path traversal, traversal sequences stripped non-recursively (path traversal)](https://github.com/Kama-ganah/File-path-traversal-traversal-sequences-stripped-non-recursively-path-traversal-)
   - [Finding a hidden GraphQL endpoint](https://github.com/Kama-ganah/Finding-a-hidden-GraphQL-endpoint)
   - [Forced OAuth profile linking](https://github.com/Kama-ganah/Forced-OAuth-profile-linking)
-  - [Information disclosure in error messages(information disclosure)]()
+  - [Information disclosure in error messages(information disclosure)](https://github.com/Kama-ganah/Information-disclosure-in-error-messages-information-disclosure-)
+  - [JWT authentication bypass via flawed signature verification]()
 
 
 <h2> Tools used</h2>
