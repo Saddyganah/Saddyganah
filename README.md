@@ -56,7 +56,8 @@
   - [OAuth account hijacking via redirect_uri](https://github.com/Kama-ganah/OAuth-account-hijacking-via-redirect_uri)
   - [Parameter cloaking](https://github.com/Kama-ganah/Parameter-cloaking)
   - [Referer-based access control(access control)](https://github.com/Kama-ganah/Referer-based-access-control-access-control-)
-  - [Routing-based SSRF(HTTP host header)]()
+  - [Routing-based SSRF(HTTP host header)](https://github.com/Kama-ganah/Routing-based-SSRF-HTTP-host-header-)
+  - [SameSite Lax bypass via method override(CSRF)]()
 
 
 <h2> Tools used</h2>
