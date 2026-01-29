@@ -14,7 +14,7 @@
   - [Clickjacking with form input data prefilled from a URL parameter(clickjacking)](https://github.com/Kama-ganah/Clickjacking-with-form-input-data-prefilled-from-a-URL-parameter-clickjacking-)
   - [Client-side prototype pollution in third-party libraries](https://github.com/Kama-ganah/Client-side-prototype-pollution-in-third-party-libraries)
   - [CORS-vulnerability-with-basic-origin-reflection](https://github.com/Kama-ganah/CORS-vulnerability-with-basic-origin-reflection)
-  - [CORS vulnerability with trusted insecure protocols]()
+  - [CORS vulnerability with trusted insecure protocols](https://github.com/Kama-ganah/CORS-vulnerability-with-trusted-insecure-protocols)
 
 
 <h2> 🤳 Connect with me:</h2>
