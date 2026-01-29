@@ -52,7 +52,8 @@
   - [Manipulating WebSocket messages to exploit vulnerabilities](https://github.com/Kama-ganah/Manipulating-WebSocket-messages-to-exploit-vulnerabilities)
   - [Method-based access control can be circumvented(access control)](https://github.com/Kama-ganah/Method-based-access-control-can-be-circumvented-access-control-)
   - [Modifying serialized data types(insecure deserialization)](https://github.com/Kama-ganah/Modifying-serialized-data-types-insecure-deserialization-)
-  - [Multistep clickjacking(clickjacking)]()
+  - [Multistep clickjacking(clickjacking)](https://github.com/Kama-ganah/Multistep-clickjacking-clickjacking-)
+  - [OAuth account hijacking via redirect_uri]()
 
 
 <h2> Tools used</h2>
