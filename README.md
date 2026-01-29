@@ -1,4 +1,20 @@
 <h1>Hi, I'm Kama <br/>
+  
+#  <a href="[https://linkedin.com](https://www.linkedin.com/in/kama-un-ganah-712063220/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
+# Penetration Tester
+
+<h2>Core Competencies</h2>
+
+- Penetration Testing Tools & Methodology
+- Ethical Hacking & Bug Bounty Techniques
+- LLM-Assisted Reconnaissance & Exploitation
+- Scritping & Automation
+- Red Teaming & Adversary Simulation
+- Vulnerability Management & Risk Assessment
+- Reverse Engineering & Exploit Development
+- Security Research & Threat Analysis
+- Professional Reporting & Documentation
 
 <h2>👨‍💻 Penetration Testing Projects:</h2>
 
@@ -25,8 +41,10 @@
   - [Exploiting path delimiters for web cache deception(web cache deception)](https://github.com/Kama-ganah/Exploiting-path-delimiters-for-web-cache-deception-web-cache-deception-)
 
 
-<h2> 🤳 Connect with me:</h2>
-<a href="[https://linkedin.com](https://www.linkedin.com/in/kama-un-ganah-712063220/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h2> Tools used</h2>
+
+
+<h2> Disclaimer!</h2>
 
 
 
