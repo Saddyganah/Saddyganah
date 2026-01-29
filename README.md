@@ -19,7 +19,8 @@
   - [CSRF vulnerability with no defenses(CSRF)](https://github.com/Kama-ganah/CSRF-vulnerability-with-no-defenses-CSRF-)
   - [Discovering vulnerabilities quickly with targeted scanning](https://github.com/Kama-ganah/Discovering-vulnerabilities-quickly-with-targeted-scanning-essentials-)
   - [DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded](https://github.com/Kama-ganah/DOM-XSS-in-AngularJS-expression-with-angle-brackets-and-double-quotes-HTML-encoded)
-  - [DOM XSS using web messages and JSON.parse(DOM-based)]()
+  - [DOM XSS using web messages and JSON.parse(DOM-based)](https://github.com/Kama-ganah/DOM-XSS-using-web-messages-and-JSON.parse-DOM-based-)
+  - [DOM-based cookie manipulation]()
 
 
 <h2> 🤳 Connect with me:</h2>
