@@ -47,7 +47,8 @@
   - [Forced OAuth profile linking](https://github.com/Kama-ganah/Forced-OAuth-profile-linking)
   - [Information disclosure in error messages(information disclosure)](https://github.com/Kama-ganah/Information-disclosure-in-error-messages-information-disclosure-)
   - [JWT authentication bypass via flawed signature verification](https://github.com/Kama-ganah/JWT-authentication-bypass-via-flawed-signature-verification)
-  - [JWT authentication bypass via jku header injection]()
+  - [JWT authentication bypass via jku header injection](https://github.com/Kama-ganah/JWT-authentication-bypass-via-jku-header-injection)
+  - [Low-level logic flaw(business logic vulnerability)]()
 
 
 <h2> Tools used</h2>
