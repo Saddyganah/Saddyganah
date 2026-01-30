@@ -84,17 +84,7 @@ I work to fully understand how a web application is built and behaves, then meth
 
 
 
-
-
-
-
-
-
-
-
-
-
-<h2> Disclaimer!</h2>
+<h2>⚠️ Disclaimer! </h2>
 
 
 
