@@ -57,20 +57,14 @@ I work to fully understand how a web application is built and behaves, then meth
   - [Scanning non-standard data structures in a blog webapp](https://github.com/Kama-ganah/Scanning-non-standard-data-structures-in-a-blog-webapp)
   - [SQL injection attack, querying the database type and version on MySQL and Microsoft in an E-commerce website](https://github.com/Kama-ganah/SQL-injection-attack-querying-the-database-type-and-version-on-MySQL-and-Microsoft-in-an-E-commerce)
   - [User ID controlled by request parameter in a fintech webapp](https://github.com/Kama-ganah/User-ID-controlled-by-request-parameter-in-a-fintech-webapp)
-  - [Web shell upload via extension blacklist bypass in an academic webapp](https://github.com/Kama-ganah/Web-shell-upload-via-extension-blacklist-bypass-file-upload-vuln.-)
-
-
-<h2> Tools used</h2>
-<img src="https://img.shields.io/badge/-Burp_Suite-FF6633?&style=for-the-badge&logo=portswigger&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nmap-2C2E83?&style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+  - [Web shell upload via extension blacklist bypass in an academic webapp](https://github.com/Kama-ganah/Web-shell-upload-via-extension-blacklist-bypass-in-an-academic-webapp)
 
 
 
 
 
-<h2>⚠️ Disclaimer! </h2>
-
+<h3>⚠️ Disclaimer! </h3>
+I operate under strict confidentiality and security constraints. Client and organization names are intentionally excluded due to confidentiality and non-disclosure requirements. All content focuses on scope, methodology, and findings to demonstrate practical penetration testing skills while maintaining ethical and professional standards.
 
 
 
