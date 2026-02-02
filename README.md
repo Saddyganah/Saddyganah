@@ -25,7 +25,7 @@ I work to fully understand how a web application is built and behaves, then meth
 
 <h2>👨‍💻 Penetration Testing Projects:</h2>
 
-  - [Authentication bypass via information disclosure](https://github.com/Kama-ganah/Authentication-bypass-via-information-disclosure)
+  - [Authentication bypass via information disclosure in an E-commerce webapp](https://github.com/Kama-ganah/Authentication-bypass-via-information-disclosure-in-an-E-commerce-webapp-)
   - [Basic Password Reset Poisoning](https://github.com/Kama-ganah/Basic-Password-Reset-Poisoning-)
   - [Blind OS command injection with out-of-band data exfiltration(command injection)](https://github.com/Kama-ganah/Blind-OS-command-injection-with-out-of-band-data-exfiltration-command-injection-)
   - [Blind OS command injection with time delays](https://github.com/Kama-ganah/Blind-OS-command-injection-with-time-delays)
