@@ -39,6 +39,7 @@ I work to fully understand how a web application is built and behaves, then meth
   - [Cross-site WebSocket hijacking in an E-commerce webapp](https://github.com/Kama-ganah/Cross-site-WebSocket-hijacking-in-an-E-commerce-webapp)
   - [CSRF vulnerability with no defenses in an E-commerce webapp](https://github.com/Kama-ganah/CSRF-vulnerability-with-no-defenses-in-an-E-commerce-webapp)
   - [Discovering vulnerabilities quickly with targeted scanning in a business webapp](https://github.com/Kama-ganah/Discovering-vulnerabilities-quickly-with-targeted-scanning-in-a-business-webapp)
+  -[DOM-XSSusing web messages and JSON.parse in an-E-commerce webapp](https://github.com/Kama-ganah/DOM-XSS-using-web-messages-and-JSON.parse-in-an-E-commerce-webapp)
   - [DOM-based cookie manipulation in an E-commerce webapp](https://github.com/Kama-ganah/DOM-based-cookie-manipulation-in-an-E-commerce-webapp)
   - [Exploiting insecure output handling in LLMs in a live chat webapp](https://github.com/Kama-ganah/Exploiting-insecure-output-handling-in-LLMs-in-a-live-chat-webapp)
   - [File path traversal sequences stripped non-recursively in a blog webapp](https://github.com/Kama-ganah/File-path-traversal-traversal-sequences-stripped-non-recursively-in-a-blog-webapp)
