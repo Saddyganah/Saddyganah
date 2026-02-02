@@ -33,7 +33,7 @@ I work to fully understand how a web application is built and behaves, then meth
   - [Brute-forcing a stay-logged-in cookie in an E-commerce webapp](https://github.com/Kama-ganah/Brute-forcing-a-stay-logged-in-cookie-in-an-E-commerce-webapp)
   - [Bypassing access controls using email address parsing discrepancies in a business website](https://github.com/Kama-ganah/Bypassing-access-controls-using-email-address-parsing-discrepancies-in-a-business-website)
   - [Bypassing rate limits via race conditions in an E-commerce webapp](https://github.com/Kama-ganah/Bypassing-rate-limits-via-race-conditions-in-an-E-commerce-webapp)
-  - [Clickjacking with form input data prefilled from a URL parameter in a Fintech webapp](https://github.com/Kama-ganah/Clickjacking-with-form-input-data-prefilled-from-a-URL-parameter-clickjacking-)
+  - [Clickjacking with form input data prefilled from a URL parameter in a Fintech webapp](https://github.com/Kama-ganah/Clickjacking-with-form-input-data-prefilled-from-a-URL-parameter-in-a-Fintech-webapp)
   - [Client-side prototype pollution in third-party libraries](https://github.com/Kama-ganah/Client-side-prototype-pollution-in-third-party-libraries)
   - [CORS-vulnerability-with-basic-origin-reflection](https://github.com/Kama-ganah/CORS-vulnerability-with-basic-origin-reflection)
   - [CORS vulnerability with trusted insecure protocols](https://github.com/Kama-ganah/CORS-vulnerability-with-trusted-insecure-protocols)
