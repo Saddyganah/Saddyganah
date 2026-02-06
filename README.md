@@ -21,6 +21,7 @@ I work to fully understand how a web application is built and behaves, then meth
 - Vulnerability Management & Risk Assessment
 - Reverse Engineering & Exploit Development
 - Security Research & Threat Analysis
+- Cross-Team Collaboration
 - Professional Reporting & Documentation
 
 <h2>👨‍💻 Security Assessments:</h2>
